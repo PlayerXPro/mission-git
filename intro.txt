@@ -1,2 +1,3 @@
 I am learning Git from my phone using Termux.
 Day 2 restart challenge.
+Edited directly from GitHub
