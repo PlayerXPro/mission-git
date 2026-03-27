@@ -1,4 +1,4 @@
 I am learning Git from my phone using Termux.
 Day 2 restart challenge.
 Edited directly from GitHub
-This line is edited from Termux
+This line is edited from both Termux and GitHub
