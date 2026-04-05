@@ -4,3 +4,4 @@ Edited directly from GitHub
 This line is edited from both Termux and GitHub
 King branch
 new
+Line from kingdom2
